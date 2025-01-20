@@ -33,42 +33,42 @@ I'm Rick, I'm passionate about data with expertise in multiple programming langu
 ## 🛠️ Programming Languages & Technologies
 
 ### Programming Languages
-- **Python**
-- **Scala** (a little)
-- **R**
-- **SQL**
-- **Bash**
-- **Git**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ### Cloud Platforms
-- **AWS**
-- **Azure**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
 
 ### Tools & Frameworks
-- **Airflow**
-- **Spark**
-- **Sagemaker**
-- **Databricks**
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white)
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apache-spark&logoColor=white)
+![Sagemaker](https://img.shields.io/badge/-Sagemaker-232F3E?logo=amazon-aws&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white)
 
 ### Machine Learning Libraries
-- **scikit-learn**
-- **TensorFlow**
-- **PyTorch**
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 ### Databases & Storage
-- **PostgreSQL**
-- **NoSQL**
-- **MySQL**
-- **SQL Server**
-- **S3**
-- **Data Lake**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-005571?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-569A31?logo=amazon-s3&logoColor=white)
+![Data Lake](https://img.shields.io/badge/-Data%20Lake-0078D4?logo=microsoft-azure&logoColor=white)
 
 ### Other Tools
-- **Slack Integrations**
-- **Data Dog**
-- **Tableau**
-- **Looker**
-- **DBT** (a little)
+![Slack Integrations](https://img.shields.io/badge/-Slack%20Integrations-4A154B?logo=slack&logoColor=white)
+![Data Dog](https://img.shields.io/badge/-Data%20Dog-632CA6?logo=datadog&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white)
+![DBT](https://img.shields.io/badge/-DBT-FF694B?logo=dbt&logoColor=white)
 
 ---
 
