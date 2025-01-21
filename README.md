@@ -49,6 +49,8 @@ I'm Rick, I'm passionate about data with expertise in multiple programming langu
 ![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apache-spark&logoColor=white)
 ![Sagemaker](https://img.shields.io/badge/-Sagemaker-232F3E?logo=amazon-aws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![GitHub Codespaces](https://img.shields.io/badge/-GitHub%20Codespaces-181717?logo=github&logoColor=white)
 
 ### Machine Learning Libraries
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
@@ -69,6 +71,9 @@ I'm Rick, I'm passionate about data with expertise in multiple programming langu
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 ![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white)
 ![DBT](https://img.shields.io/badge/-DBT-FF694B?logo=dbt&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)
+![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?logo=airtable&logoColor=white)
 
 ---
 
